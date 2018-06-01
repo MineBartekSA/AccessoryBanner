@@ -1,0 +1,7 @@
+﻿################################################################################
+# Ten plik .gitignore został utworzony automatycznie przez Microsoft(R) Visual Studio.
+################################################################################
+
+/AccesoryBanner/obj/Debug/AccessoryBanner.csproj.CoreCompileInputs.cache
+/.vs/AccessoryBanner/v15/Server/sqlite3
+/AccesoryBanner/obj/Debug
